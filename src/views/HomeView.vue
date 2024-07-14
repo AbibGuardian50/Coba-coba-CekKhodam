@@ -7,6 +7,10 @@
       <p class="result-text">Selamat <span class="nama-highlight">{{ nama }}</span>,</p>
       <p class="result-text">Khodam Kamu Adalah <span class="hasil-highlight">{{ hasilNama }}</span></p>
     </div>
+    <div class="copyright">
+      <p>&copy; 2024 AbibGuardian50. All rights reserved.</p>
+      <p><a href="https://github.com/AbibGuardian50" target="_blank">Visit my GitHub</a></p>
+    </div>
   </div>
 </template>
 
@@ -85,5 +89,16 @@ button:hover {
 .hasil-highlight {
   font-style: italic;
   color: #28a745; /* green */
+}
+
+.footer {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #666;
+}
+
+.footer a {
+  color: #007bff;
+  text-decoration: none;
 }
 </style>
