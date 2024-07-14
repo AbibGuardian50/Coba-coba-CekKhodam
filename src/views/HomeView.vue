@@ -21,7 +21,7 @@ export default {
       nama: '',
       Khodam: [
         'Pengker', 'Sepiteng Bocor', 'Buto Ijo', 'Rawa Rontek',
-        'Nyai Roro Kidul', 'Tuyul', 'Pontianak', 'Telor Busuk'
+        'Nyai Roro Kidul', 'Tuyul', 'Telor Busuk', 'Pipa Rucika'
       ],
       hasilNama: ''
     };
